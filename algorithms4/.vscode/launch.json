@@ -1,0 +1,106 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VisualAccumulator",
+            "request": "launch",
+            "mainClass": "com.stlndm.algorithms4.Section1.VisualAccumulator",
+            "projectName": "algorithms4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DoublingRatio",
+            "request": "launch",
+            "mainClass": "com.stlndm.algorithms4.Section1.DoublingRatio",
+            "projectName": "algorithms4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreeSumFast",
+            "request": "launch",
+            "mainClass": "com.stlndm.algorithms4.Section1.ThreeSumFast",
+            "projectName": "algorithms4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TwoSumFast",
+            "request": "launch",
+            "mainClass": "com.stlndm.algorithms4.Section1.TwoSumFast",
+            "projectName": "algorithms4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DoublingTest",
+            "request": "launch",
+            "mainClass": "com.stlndm.algorithms4.Section1.DoublingTest",
+            "projectName": "algorithms4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Stopwatch",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "mainClass": "com.stlndm.algorithms4.Section1.Stopwatch",
+            "projectName": "algorithms4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearch",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "mainClass": "com.stlndm.algorithms4.Section1.BinarySearch",
+            "projectName": "algorithms4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreeSum",
+            "request": "launch",
+            "mainClass": "com.stlndm.algorithms4.Section1.ThreeSum",
+            "projectName": "algorithms4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Queue",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "mainClass": "com.stlndm.algorithms4.Origami.Queue",
+            "projectName": "algorithms4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Stack",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "mainClass": "com.stlndm.algorithms4.Origami.Stack",
+            "projectName": "algorithms4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ResizingArrayStack",
+            "request": "launch",
+            "mainClass": "com.stlndm.algorithms4.Origami.ResizingArrayStack",
+            "projectName": "algorithms4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VisualAccumulator",
+            "request": "launch",
+            "mainClass": "com.stlndm.algorithms4.VisualAccumulator",
+            "projectName": "algorithms4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoApplication",
+            "request": "launch",
+            "mainClass": "com.stlndm.algorithms4.DemoApplication",
+            "projectName": "algorithms4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Counter",
+            "request": "launch",
+            "mainClass": "com.stlndm.algorithms4.Counter",
+            "projectName": "algorithms4"
+        }
+    ]
+}
