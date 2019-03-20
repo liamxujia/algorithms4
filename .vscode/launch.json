@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortCompare",
+            "request": "launch",
+            "mainClass": "com.stlndm.algorithms4.Section2.SortCompare",
+            "projectName": "algorithms4"
+        }
+    ]
+}
